@@ -1,6 +1,6 @@
 # Dog 
 
-![Dog](https://github.com/aleksandrvasilyev/animals/blob/main/images/dog.jpg?raw=true)
+![Dog](./images/dog.jpg?raw=true)
 
 
 
